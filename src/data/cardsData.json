@@ -1,0 +1,35 @@
+[
+    {
+      "image": "../../public/images/banner1.jpg",
+      "firstTitle": "Fresh & Healthy",
+      "secondTitle": "Organic Fruits",
+      "discount": "35%",
+      "description": "off on first order",
+      "buttonLink": ""
+    },
+    {
+      "image": "../../public/images/banner2.jpg",
+      "firstTitle": "Daily Essentials",
+      "secondTitle": "Fresh Vegetables",
+      "discount": "30%",
+      "description": "off on all items",
+      "buttonLink": ""
+    },
+    {
+      "image": "../../public/images/banner3.jpg",
+      "firstTitle": "Best Quality",
+      "secondTitle": "Organic Dairy",
+      "discount": "20%",
+      "description": "off on first purchase",
+      "buttonLink": ""
+    },
+    {
+      "image": "../../public/images/banner2.jpg",
+      "firstTitle": "Healthy",
+      "secondTitle": "Bakery Products",
+      "discount": "35%",
+      "description": "off on first order",
+      "buttonLink": ""
+    }
+  ]
+  

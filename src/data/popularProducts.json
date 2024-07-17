@@ -1,0 +1,91 @@
+{
+    "categories": [
+      {
+        "name": "Vegetables",
+        "items": [
+          {
+            "name": "Fresh organic villa farm lemon 500gm pack",
+            "price": 120.25,
+            "original_price": 123.25,
+            "rating": 4.5,
+            "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/KG/IA/FQ/71827602/organic-fresh-lemon-1000x1000.jpg",
+            "description": "Fresh and juicy lemons sourced from organic farms, perfect for adding a zesty flavor to your dishes."
+          },
+          {
+            "name": "Fresh organic villa farm Carrot 750gm pack",
+            "price": 60.00,
+            "original_price": 65.00,
+            "rating": 4.3,
+            "image": "https://www.4harvests.co.zw/wp-content/uploads/2020/06/Carrots.jpg",
+            "description": "Crunchy and sweet carrots perfect for snacking or adding to your favorite recipes."
+          }
+        ]
+      },
+      {
+        "name": "Snacks",
+        "items": [
+          {
+            "name": "Best snacks with hazelnut pack 200gm",
+            "price": 145.00,
+            "original_price": 150.00,
+            "rating": 5.0,
+            "image": "https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/product/9.jpg",
+            "description": "Delicious snacks with a rich hazelnut flavor, perfect for satisfying your cravings."
+          },
+          {
+            "name": "Organic mixed nuts 250gm pack",
+            "price": 200.00,
+            "original_price": 220.00,
+            "rating": 4.8,
+            "image": "https://bestbuyltd.com/wp-content/uploads/2022/02/NF-mixed-nuts-460x460.jpg",
+            "description": "A healthy mix of organic nuts, great for snacking or adding to your breakfast."
+          }
+          
+        ]
+      },
+      {
+        "name": "Fruits",
+        "items": [
+          {
+            "name": "Fresh organic apple 1kg simla marming",
+            "price": 120.25,
+            "original_price": 123.25,
+            "rating": 4.5,
+            "image": "https://img2.exportersindia.com/product_images/bc-small/2022/6/10377076/organic-apple-1655871612-6407457.jpeg",
+            "description": "Crisp and sweet organic apples, perfect for a healthy snack or adding to your meals."
+          },
+         
+          {
+            "name": "Delicious freshly picked Mango 1kg pack",
+            "price": 150.00,
+            "original_price": 160.00,
+            "rating": 4.9,
+            "image": "https://d2n7tchuu1wmsv.cloudfront.net/uploads/6753/products/1588879843_devgadpremium.jpg",
+            "description": "Juicy and sweet mangoes, a tropical delight that can be enjoyed on its own or in desserts."
+          }
+        ]
+      },
+      {
+        "name": "Bakery",
+        "items": [
+          {
+            "name": "Delicious white baked fresh bread and toast",
+            "price": 20.00,
+            "original_price": 22.10,
+            "rating": 5.0,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.60n8iuZ526j2M8gZgXedFAHaFI&pid=Api&P=0&h=180",
+            "description": "Soft and freshly baked white bread, perfect for making sandwiches or toast."
+          },
+          {
+            "name": "Chocolate chip cookies pack of 12",
+            "price": 50.00,
+            "original_price": 55.00,
+            "rating": 4.9,
+            "image": "https://www.kroger.com/product/images/large/front/2004980017151",
+            "description": "Delicious chocolate chip cookies, baked to perfection and perfect for satisfying your sweet tooth."
+          }
+        ]
+      }
+    ]
+  }
+  

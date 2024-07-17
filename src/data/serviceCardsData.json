@@ -1,0 +1,28 @@
+[
+    {
+      "icon": "faHeadset",
+      "title": "24X7 Support",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "icon": "faTruck",
+      "title": "Delivery in 5 Days",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "icon": "faDollarSign",
+      "title": "Payment Secure",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "icon": "faBoxOpen",
+      "title": "Product Packing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    },
+    {
+      "icon": "faTruck",
+      "title": "Delivery in 5 Days",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing."
+    }
+  ]
+  
